@@ -38,6 +38,9 @@ Para executar o projeto localmente, siga as instruções abaixo:
 
 4. Acesse o aplicativo no seu navegador em http://localhost:3000 (ou outra porta, se especificada).
 
+## Veja o deploy dessa aplicação aqui!
+https://recipes-app-mauve-seven.vercel.app/
+
 <!-- Olá, Tryber!
 Esse é apenas um arquivo inicial para o README do seu projeto.
 É essencial que você preencha esse documento por conta própria, ok?
